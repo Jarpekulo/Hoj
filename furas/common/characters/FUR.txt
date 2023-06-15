@@ -1,0 +1,16 @@
+characters={
+	FUR_gryzio_wielki={
+		name=FUR_CHARACTER_GRYZIO_WIELKI
+		portraits={
+			civilian={
+				large="GFX_portrait_fur_gryzio_wielki_large"
+			}
+		}
+		country_leader={
+			ideology=leninism
+			desc = FUR_GRYZIO_WIELKI_DESC
+			expire="1965.1.1.1"
+			
+		}
+	}
+}
